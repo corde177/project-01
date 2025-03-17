@@ -9,3 +9,8 @@ body {
     color: #fff;
     margin: 20px auto;
 }
+
+main {
+    background: #ccc;
+    color: #333;
+}
